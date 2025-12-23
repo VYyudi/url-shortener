@@ -18,7 +18,7 @@ O sistema permite transformar URLs longas em códigos curtos, redirecionar acess
 - Spring Boot
 - Spring Web
 - Spring Data JPA
-- Banco de Dados: PostgreSQL ou MySQL
+- Banco de Dados: MySQL
 
 ### Frontend
 - React (simples)
@@ -48,8 +48,3 @@ Projeto simples, porém técnico, focado em boas práticas e clareza de implemen
 - Exibir estatísticas por URL
 - Validar URLs antes do cadastro
 
----
-
-## 🔗 Endpoints da API
-
-### ➕ Encurtar URL
