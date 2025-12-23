@@ -36,8 +36,6 @@ Demonstrar:
 - Contagem de acessos
 - Validação de URLs
 
-Projeto simples, porém técnico, focado em boas práticas e clareza de implementação.
-
 ---
 
 ## 📌 Funcionalidades
